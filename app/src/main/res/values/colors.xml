@@ -1,0 +1,26 @@
+<resources>
+
+    <color name="ColorPrimary">#00897B</color>
+    <color name="ColorPrimaryDark">#00695C</color>
+    <color name="tabsScrollColor">#004D40</color>
+
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="button_primary">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="accent">#FF80AB</color>
+    <color name="style_color_primary">#00897B</color>
+    <color name="style_color_primary_dark">#00695C</color>
+    <color name="style_color_accent">#004D40</color>
+
+    <color name="fab_color_pressed">#007787</color>
+    <color name="fab_color_shadow">#44000000</color>
+
+    <color name="btn_default_light_normal">#00000000</color>
+    <color name="btn_default_light_pressed">#40ffffff</color>
+    <color name="btn_send_normal">#02c754</color>
+    <color name="btn_send_pressed">#006633</color>
+    <color name="btn_default_shadow">#99000000</color>
+    <color name="btn_context_menu_normal">#ffffff</color>
+    <color name="btn_context_menu_pressed">#40000000</color>
+    <color name="btn_context_menu_text_red">#ffff0000</color>
+</resources>
